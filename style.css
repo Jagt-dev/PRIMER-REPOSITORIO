@@ -1,0 +1,39 @@
+body{
+	color:#333;
+	text-align:center;
+	font-family:"Arial";
+	font-size: 30px;
+	margin: 0;
+	padding:0;
+}
+
+.container{
+	width: 70%;
+	padding: 1em;
+	text-align: left;
+	border: 1px solid black;
+	margin: 0 auto;
+}
+
+.container h1{
+	font-size: 20px;
+}
+
+
+
+/*
+ FORO #1:
+
+ Investigar los modelos de arquitectura de computadora
+ 
+ -> Portada
+ -> Indice automatizado (tabla de contenido)
+ -> Introduccion
+ -> Desarrollo del tema:
+ 	clasico
+	segmentado
+	Multiprocesamiento
+-> Bibliografia
+-> Conclusion
+ */
+
